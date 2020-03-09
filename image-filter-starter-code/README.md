@@ -1,4 +1,4 @@
-https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/GettingStarted.CreateApp.html
+
 udagramvaledev-dev.us-east-2.elasticbeanstalk.com
  
 # Udagram Image Filtering Microservice
