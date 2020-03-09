@@ -1,5 +1,4 @@
-
-udagramvaledev-dev.us-east-2.elasticbeanstalk.com
+Udagramvaledev-env.eba-m9ajfcbd.us-east-2.elasticbeanstalk.com 
  
 # Udagram Image Filtering Microservice
 
